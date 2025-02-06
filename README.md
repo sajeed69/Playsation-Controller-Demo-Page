@@ -1,4 +1,4 @@
-A Demo Page About PlayStation5 Controller Using HTML,CSS and JavaScript
+A Demo Page About PlayStation5 Controller Using HTML,CSS
 
 Screenshot----
 
